@@ -1,3 +1,4 @@
 <!--pages/home/home2.wxml-->
 <text class='title'>heloo</text>
 <button size='minis'>阿牛</button>
+<view>知识点2</view>
